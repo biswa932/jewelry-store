@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+    <Regular>
+        <Username value="abc" />
+        <Password value="abc" />
+    </Regular>
+    <Privileged>
+        <Username value="def" />
+        <Password value="def" />
+    </Privileged>
+</root>
